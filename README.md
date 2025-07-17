@@ -23,5 +23,4 @@ I'm a final-year Computer Science student at PES University, specializing in **A
 
 - 🔗 Portfolio: [akashchekodu.vercel.app](https://akashchekodu.vercel.app)  
 - 💼 LinkedIn: [linkedin.com/in/akash-chekodu](https://linkedin.com/in/akash-chekodu)  
-- 💻 GitHub: [github.com/akashchekodu](https://github.com/akashchekodu)  
 - 📧 Email: chekodu.akash30@gmail.com  
